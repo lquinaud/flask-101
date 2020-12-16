@@ -9,6 +9,8 @@ gunicorn = "*"
 heroku = "*"
 
 [dev-packages]
+flask-testing = "*"
+nose = "*"
 
 [requires]
 python_version = "3.8"
