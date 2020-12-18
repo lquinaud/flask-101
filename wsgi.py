@@ -16,6 +16,7 @@ def products():
       1: { 'id': 1, 'name': 'Skello' },
       2: { 'id': 2, 'name': 'Socialive.tv' },
       3: { 'id': 3, 'name': 'Le Wagon'},
+      4: { 'id': 4, 'name': 'Lorenzo'},
     }
     #return jsonify(name=("Skello","Socialive.tv"), id=(1,2))
     return jsonify(PRODUCTS)
